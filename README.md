@@ -4,10 +4,10 @@ Another Java developer's list of the fundamental features of Scala.
 
 ---
 
-Basics
+##Basics
 
-1.    
-2.   
+1. Functions
+2. Immutability with vals
 3.   
 4.   
 5.   
