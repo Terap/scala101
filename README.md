@@ -6,7 +6,7 @@ Another Java developer's list of the fundamental features of Scala.
 
 ##Basics
 
-1. Functions
+1. Type System - the Scala compiler works hard to infer types for you all over the place so you don't have to declare them. If you hear developers criticizing Scala for its slow compilation times then they possibly don't appreciate work like implicit type inference that is being taken care of. Types need only be explicitly declared for function parameters in most cases. Choosing to declare Types is a balance between being expressive and being verbose - Scala gives you the power to choose (unlike Java, for example). Type inference in Scala is static not dynamic (such as in Ruby).
 2. Immutability with vals
 3.   
 4.   
